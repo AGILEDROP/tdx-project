@@ -39,7 +39,7 @@
         "symfony/css-selector": "~2.8|~3.0"
     },
     "minimum-stability": "dev",
-    "prefer-stable": true,
+    "prefer-stable": false,
     "autoload": {
         "classmap": [
             "scripts/composer/ScriptHandler.php"
