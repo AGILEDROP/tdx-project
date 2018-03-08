@@ -5,9 +5,8 @@
     "license": "GPL-2.0-or-later",
     "authors": [
         {
-            "name": "Agiledrop",
-            "email": ""
-        },
+            "name": "Agiledrop"
+        }
     ],
     "repositories": [
         {
@@ -20,6 +19,7 @@
         }
     ],
     "require": {
+        "agiledrop/tdx-profile": "dev-master",
         "cweagans/composer-patches": "^1.6",
         "drupal-composer/drupal-scaffold": "^2.2",
         "drupal/console": "^1.2",
