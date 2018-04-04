@@ -27,7 +27,7 @@
         "drush/drush": "^9.0.0",
         "webflo/drupal-finder": "^1.0.0",
         "webmozart/path-util": "^2.3",
-        "agiledrop/tdx-distribution": "0.2.2",
+        "agiledrop/tdx-distribution": "dev-master",
         "org/cotailored_base_drush_commands": "dev-master"
     },
     "require-dev": {
